@@ -8,3 +8,11 @@
   float: left; /* Float the image to the left (if it's part of a text flow) */
   /* Add more styles as needed */
 }
+
+body{
+  background-color:#C2DDF0;
+}
+
+#experience{
+  background-color:#E6F7FF ;
+}
